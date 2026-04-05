@@ -1,6 +1,6 @@
 # Podcast-Generator
 
-##About this project
+## About this project
 
 This project was developed as part of a structured, hands-on learning course on Git and GitHub Actions (LinkedIn Learning / Microsoft).
 
