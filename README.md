@@ -8,9 +8,9 @@ While the core idea follows the course material, the implementation, debugging, 
 
 This repository is intended to demonstrate practical understanding of:
 
-Git workflows and version control
-GitHub Actions and automation
-Docker-based custom actions
-End-to-end CI/CD integration
+- Git workflows and version control
+- GitHub Actions and automation
+- Docker-based custom actions
+- End-to-end CI/CD integration
 
 It is not presented as a fully original product, but as a learning-driven build showcasing applied skills.
